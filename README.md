@@ -1,4 +1,4 @@
-# analizNaIziskwaniqRedyProject
+# first-cucumber-project-gr1-v2
 
 Description: This app is for registering kids in kindergarden and  testing the app with cucumber with scenario.
 Every step how the app need to work. 
