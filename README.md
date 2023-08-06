@@ -9,3 +9,5 @@ Every step explains how the app needs to work:
 4.See a message for success, or problem.
 5.And many other steps.
 Technologies used: Cucumber test, Java.
+
+![testing](https://github.com/EvgeniyKrastev/first-cucumber-project-gr1-v2/assets/65820929/beed1e70-0d56-4a2f-a20d-a3013a4bc6fc)
